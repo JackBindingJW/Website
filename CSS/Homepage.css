@@ -9,8 +9,8 @@
 body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
-    background-color: #f7f7f7;
-    color: #333;
+    background-color: #f7f7f7; //light grey background
+    color: #333; //black colour
 }
 
 .container {
@@ -21,7 +21,7 @@ body {
 
 /* Header Styles */
 header {
-    background: #333;
+    background: #5D66CD; //Navy colour
     color: #fff;
     padding-top: 20px;
     padding-bottom: 20px;
