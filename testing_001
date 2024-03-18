@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>What does this change?</title>
+    <style>
+        body {
+              background-image: url(‘./Pictures/JackBinding_0.jpg’);
+              background-repeat: no-repeat;
+              color: #FFFFFF;
+              }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Jack Binding</h1>
+        <nav>
+            <ul>
+                <li><a href="./Home">Home</a></li>
+                <li><a href="#">About</a></li>
+                <!--<li><a href="#">Running</a></li>  this to link to running blog (on that page here, so no need) -->
+                <li><a href="#">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
