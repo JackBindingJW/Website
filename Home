@@ -1,0 +1,46 @@
+<!-- 
+This home page is to mirror the index file
+purpose being the URL now says "Home" rather than "Index"..
+I suspect a better way of doing this but this will do for now
+ -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Website Title</title>
+    <style>
+        /* Add your CSS styles here */
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Jack Binding</h1>
+        <nav>
+            <ul>
+               <!-- <li><a href="#">Home</a></li> we are already here-->
+                <li><a href="#">About</a></li>
+                <li><a href="./Running">Running</a></li> <!-- this to link to running blog -->
+                <li><a href="#">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section>
+            <h2>Section 1</h2>
+            <p>This is the content of section 1.</p>
+        </section>
+
+        <section>
+            <h2>Section 2</h2>
+            <p>This is the content of section 2.</p>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 Your Website. All rights reserved.</p>
+    </footer>
+</body>
+</html>
